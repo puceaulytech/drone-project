@@ -17,7 +17,7 @@ We intend to build an efficient and reliable way to perform ground attacks opera
 
 | Names  | Session 1 | Session 2 | Session 3 | Session 4 | Session 5 | Session 6 | Session 7 | Session 8 |
 |--------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| Romain |           |           |           |           |           |           |           |           |
-| Robin  |           |           |           |           |           |           |           |           |
+| Romain | Development of a Motor class for controlling ECS |           |           |           |           |           |           |           |
+| Robin  | Soldering and testing the ECS |           |           |           |           |           |           |           |
 
 [Link to Report](REPORT.md)
