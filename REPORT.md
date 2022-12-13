@@ -4,7 +4,7 @@
 
 ### Romain
 
-I have created a `Motor` class that can controllor brushless Motor, and I have tested it on the real motor.
+I have created a `Motor` class that can control brushless motors, and I have tested it on the real motor. [Link to the commit](https://github.com/puceaulytech/drone-project/commit/5b512052bd83003a48b063314c60262c7db4f64a)
 
 ### Robin
 
