@@ -1,4 +1,4 @@
-J'ai récupéré les modèles 3D du drone et j'ai lancé l'impressions des pièces au FabLab. J'ai lancé à peu près la moitié des pièces et la plaque est déjà bien chargé. (EDIT mardi 10 janvier 15:00: l'impression a apparement été un carnage et on a réussi à récupérer 3 pièces, on va tenter de relancer l'impression avec moins de pièces sur la plaque).
+J'ai récupéré les modèles 3D du drone et j'ai lancé l'impressions des pièces au FabLab. J'ai lancé à peu près la moitié des pièces et la plaque est déjà bien chargé. (EDIT mardi 10 janvier 15h00: l'impression a apparement été un carnage et on a réussi à récupérer 3 pièces, on va tenter de relancer l'impression avec moins de pièces sur la plaque).
 
 J'ai aussi commencer a programmer une classe C++ permettant de récupèrer les commandes radio PWM envoyées par la télécommande:
 
