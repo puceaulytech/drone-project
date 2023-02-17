@@ -5,3 +5,6 @@ After initial tests, the code side of the project is ready for plug and play, ma
 as it would be almost impossible to make another one in this short amount of time; but we hope to test it afterward. 
 The autonomous flight code is being developped by myself and will be ready for the presentation in a barely tested and highly WIP state but 
 i think it will be interesting to show it still as a proof of concept. 
+Link of the current WIP autonomous code : 
+https://github.com/puceaulytech/drone-project/commit/fb32b53ca0abac5d1582d444623743c9f38e7ec9
+
