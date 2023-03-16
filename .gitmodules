@@ -1,0 +1,4 @@
+[submodule "drone-monitor"]
+	path = drone-monitor
+	url = https://github.com/puceaulytech/drone-monitor.git
+	branch = logan-master
